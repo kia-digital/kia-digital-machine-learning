@@ -18,8 +18,8 @@ Proyek ini bertujuan untuk mengklasifikasikan tingkat risiko kesehatan maternal 
 
 1. **Clone repository**
    ```sh
-   git clone <repo-url>
-   cd <repo-folder>
+   git clone https://github.com/kia-digital/kia-digital-machine-learning.git
+   cd kia-digital-machine-learning
    ```
 
 2. **Buat environment dan install dependencies**
@@ -92,8 +92,8 @@ Proyek ini membangun sistem rekomendasi artikel kesehatan berbasis prediksi kond
 
 1. **Clone repository**
    ```sh
-   git clone <repo-url>
-   cd <repo-folder>
+   git clone https://github.com/kia-digital/kia-digital-machine-learning.git
+   cd kia-digital-machine-learning
    ```
 
 2. **Buat environment dan install dependencies**
